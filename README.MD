@@ -19,11 +19,11 @@ Projede, hem **Doğrusal Regresyon (Linear Regression)** hem de **Random Forest 
 
 #### Örnek: `monthly_income` değişkeninin Winsorizing Öncesi ve Sonrası Kutu grafikleri
 
-![Winsorizing Öncesi ve Sonrası](ödev2_yz\winsorized.png)
+![Winsorizing Öncesi ve Sonrası](winsorized.png)
 
 #### Örnek: Sayısal Değişkenin Ölçeklendirme (Scaler) Öncesi ve Sonrası Dağılımı
 
-![Scaler Öncesi ve Sonrası](ödev2_yz\scaled.png)
+![Scaler Öncesi ve Sonrası](scaled.png)
 
 
 ### 3. Modelleme
